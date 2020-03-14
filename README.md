@@ -1,3 +1,10 @@
-#### Capstone-1---C02-Emissions 
-This Capstone project came early in the curriculum. The goal is to create a basic data narrative through three questions. The tools to be used were basic EDA tools line NumPy, Pandas, MatplotLib, and Seaborn.
- 
+#### C1: Analytic Report and Research Proposal
+Create a data narrative through EDA which answers three questions. Chose a global C02 emission dataset. In addition to basic requirements, chose to run t-test and standardize data. Primary libraries used NumPy, Pandas, MatplotLib, and Seaborn.
+
+#### C2: Experiment A/B Test
+
+#### C3: Classification
+
+#### C4: 
+
+#### C5: NLP
