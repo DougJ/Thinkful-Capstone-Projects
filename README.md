@@ -1,10 +1,9 @@
-#### C1: Analytic Report and Research Proposal
-Create a data narrative through EDA which answers three questions. Chose a global C02 emission dataset. In addition to basic requirements, chose to run t-test and standardize data. Primary libraries used NumPy, Pandas, MatplotLib, and Seaborn.
+#### C1: Story Telling - Analytic Report and Research Proposal
 
-#### C2: Experiment A/B Test
+#### C2: A/B Test - Experiment proposal for new product.
 
-#### C3: Classification
+#### C3: Classification - Predicting marketing probability in an unbalanced target with multiple algorithms.
 
-#### C4: 
+#### C4: Recommender System - Collaborative music recommender system.
 
-#### C5: NLP
+#### C5: NLP - Text classification and market segmentation analysis. 
